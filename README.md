@@ -10,17 +10,21 @@ Two iOS apps live on the App Store, a web app in production, and a commercial Af
 
 Built while working through Codecademy's Full-Stack Engineer path. Every web project is live on GitHub Pages.
 
-### Live websites
+### Live Website Projects
 
 - **Animal Fun Facts:** React app that shows a random fact when you click an animal · [Live site](https://ktforge.github.io/animal-fun-facts/) · [Code](https://github.com/ktforge/animal-fun-facts)
 - **Film Finder:** random movie picker by genre, powered by the TMDB API · [Live site](https://ktforge.github.io/film-finder/) · [Code](https://github.com/ktforge/film-finder)
+- **Vandalia Chess Club:** responsive website for a made-up chess club in Vandalia, Ohio · [Live site](https://ktforge.github.io/Chess-Club/) · [Code](https://github.com/ktforge/Chess-Club)
 - **Tea Cozy:** landing page for a fictional tea shop, built from a design mockup with Flexbox · [Live site](https://ktforge.github.io/Tea-Cozy/) · [Code](https://github.com/ktforge/Tea-Cozy)
 - **KT Forge Homepage:** one-page homepage for my studio, built with HTML and CSS Flexbox · [Live site](https://ktforge.github.io/company-homepage-flexbox/) · [Code](https://github.com/ktforge/company-homepage-flexbox)
 - **Number Guesser:** browser game against the computer: closest guess to a secret number wins · [Live site](https://ktforge.github.io/Number-Guesser/) · [Code](https://github.com/ktforge/Number-Guesser)
+- **Website Style Guide:** style guide page that sets a site's colors, fonts, and components before building it · [Live site](https://ktforge.github.io/website-style-guide-codecademey-full-stack/) · [Code](https://github.com/ktforge/website-style-guide-codecademey-full-stack)
+- **Fotomatic:** debugging project: tracking down the HTML and CSS bugs on a camera landing page · [Live site](https://ktforge.github.io/fotomatic_broken/) · [Code](https://github.com/ktforge/fotomatic_broken)
 - **Portfolio Website:** my portfolio site · [Live site](https://ktforge.github.io/portfolio-website/) · [Code](https://github.com/ktforge/portfolio-website)
 
-### JavaScript projects
+### Other projects
 
+- **Streak Tracker:** habit tracker built with React and TypeScript, a web version of Habit Tracker: Pro · [Code](https://github.com/ktforge/streak-tracker)
 - **Credit Card Checker:** finds invalid card numbers and their issuers using the Luhn algorithm · [Code](https://github.com/ktforge/credit-card-checker)
 - **Mysterious Organism:** simulates DNA for a fictional deep-sea organism · [Code](https://github.com/ktforge/mystery-organism-starter)
 - **Message Generator:** command line program that prints a random Daily Dev Fortune · [Code](https://github.com/ktforge/my_message_generator)

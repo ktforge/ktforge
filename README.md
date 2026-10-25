@@ -6,6 +6,29 @@ Two iOS apps live on the App Store, a web app in production, and a commercial Af
 
 ---
 
+## Projects
+
+Built while working through Codecademy's Full-Stack Engineer path. Every web project is live on GitHub Pages.
+
+### Live websites
+
+- **Animal Fun Facts:** React app that shows a random fact when you click an animal · [Live site](https://ktforge.github.io/animal-fun-facts/) · [Code](https://github.com/ktforge/animal-fun-facts)
+- **Film Finder:** random movie picker by genre, powered by the TMDB API · [Live site](https://ktforge.github.io/film-finder/) · [Code](https://github.com/ktforge/film-finder)
+- **Tea Cozy:** landing page for a fictional tea shop, built from a design mockup with Flexbox · [Live site](https://ktforge.github.io/Tea-Cozy/) · [Code](https://github.com/ktforge/Tea-Cozy)
+- **KT Forge Homepage:** one-page homepage for my studio, built with HTML and CSS Flexbox · [Live site](https://ktforge.github.io/company-homepage-flexbox/) · [Code](https://github.com/ktforge/company-homepage-flexbox)
+- **Number Guesser:** browser game against the computer: closest guess to a secret number wins · [Live site](https://ktforge.github.io/Number-Guesser/) · [Code](https://github.com/ktforge/Number-Guesser)
+- **Portfolio Website:** my portfolio site · [Live site](https://ktforge.github.io/portfolio-website/) · [Code](https://github.com/ktforge/portfolio-website)
+
+### JavaScript projects
+
+- **Credit Card Checker:** finds invalid card numbers and their issuers using the Luhn algorithm · [Code](https://github.com/ktforge/credit-card-checker)
+- **Mysterious Organism:** simulates DNA for a fictional deep-sea organism · [Code](https://github.com/ktforge/mystery-organism-starter)
+- **Message Generator:** command line program that prints a random Daily Dev Fortune · [Code](https://github.com/ktforge/my_message_generator)
+- **Rooster Regulation:** Mocha test suite for an untested Rooster object · [Code](https://github.com/ktforge/rooster-regulation)
+- **Factorial Feature:** factorial method built with test-driven development in Mocha · [Code](https://github.com/ktforge/factorial-feature)
+
+---
+
 ## Shipped Products
 
 ### 🚚 MyRouteBuddy (iOS)

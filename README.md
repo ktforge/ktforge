@@ -13,6 +13,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 ### Live Website Projects
 
 - **Animal Fun Facts:** React app that shows a random fact when you click an animal · [Live site](https://ktforge.github.io/animal-fun-facts/) · [Code](https://github.com/ktforge/animal-fun-facts)
+- **Authorization Form:** React contact page hidden behind a password form · [Live site](https://ktforge.github.io/authorization-form/) · [Code](https://github.com/ktforge/authorization-form)
 - **Film Finder:** random movie picker by genre, powered by the TMDB API · [Live site](https://ktforge.github.io/film-finder/) · [Code](https://github.com/ktforge/film-finder)
 - **Vandalia Chess Club:** responsive website for a made-up chess club in Vandalia, Ohio · [Live site](https://ktforge.github.io/Chess-Club/) · [Code](https://github.com/ktforge/Chess-Club)
 - **Tea Cozy:** landing page for a fictional tea shop, built from a design mockup with Flexbox · [Live site](https://ktforge.github.io/Tea-Cozy/) · [Code](https://github.com/ktforge/Tea-Cozy)

@@ -8,10 +8,11 @@ Two iOS apps live on the App Store, a web app in production, and a commercial Af
 
 ## Projects
 
-Built while working through Codecademy's Full-Stack Engineer path. Every web project is live on GitHub Pages.
+Built while working through Codecademy's Full-Stack Engineer path. Every web project has a live site.
 
 ### Live Website Projects
 
+- **Adopt a Pet:** React Router pet adoption site with species filters, pet detail pages, name search, and a 404 redirect · [Live site](https://adopt-a-pet-devante.netlify.app) · [Code](https://github.com/ktforge/adopt-a-pet)
 - **Jammming:** React music search app with Deezer results, 30 second track previews, and a custom playlist builder · [Live site](https://ktforge.github.io/Jammming/) · [Code](https://github.com/ktforge/Jammming)
 - **Saucy Tango Order Form:** React food order form for a local restaurant with controlled inputs and an order confirmation alert · [Live site](https://ktforge.github.io/saucy-tango-order-form/) · [Code](https://github.com/ktforge/saucy-tango-order-form)
 - **Styling Rock Paper Scissors:** React rock paper scissors game styled three ways: inline styles, style objects, and CSS modules · [Live site](https://ktforge.github.io/styling-rock-paper-scissors/) · [Code](https://github.com/ktforge/styling-rock-paper-scissors)

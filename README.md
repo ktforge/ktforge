@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **Appointment Planner:** React app for saving contacts and booking appointments with them, with a duplicate name check and contact picker · [Live site](https://appointment-planner-devante.netlify.app) · [Code](https://github.com/ktforge/appointment-planner)
 - **Adopt a Pet:** React Router pet adoption site with species filters, pet detail pages, name search, and a 404 redirect · [Live site](https://adopt-a-pet-devante.netlify.app) · [Code](https://github.com/ktforge/adopt-a-pet)
 - **Jammming:** React music search app with Deezer results, 30 second track previews, and a custom playlist builder · [Live site](https://ktforge.github.io/Jammming/) · [Code](https://github.com/ktforge/Jammming)
 - **Saucy Tango Order Form:** React food order form for a local restaurant with controlled inputs and an order confirmation alert · [Live site](https://ktforge.github.io/saucy-tango-order-form/) · [Code](https://github.com/ktforge/saucy-tango-order-form)

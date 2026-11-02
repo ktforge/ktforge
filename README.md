@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **Streak Tracker:** habit tracker built with React and TypeScript, a web version of Habit Tracker: Pro · [Live site](https://streak-tracker-devante.netlify.app) · [Code](https://github.com/ktforge/streak-tracker)
 - **Codecademy Store:** React and Redux store with a cart, quantity picker, USD/EUR/CAD currency switch, and product search · [Live site](https://codecademy-store-devante.netlify.app) · [Code](https://github.com/ktforge/codecademy-store)
 - **Appointment Planner:** React app for saving contacts and booking appointments with them, with a duplicate name check and contact picker · [Live site](https://appointment-planner-devante.netlify.app) · [Code](https://github.com/ktforge/appointment-planner)
 - **Adopt a Pet:** React Router pet adoption site with species filters, pet detail pages, name search, and a 404 redirect · [Live site](https://adopt-a-pet-devante.netlify.app) · [Code](https://github.com/ktforge/adopt-a-pet)
@@ -33,7 +34,6 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Other projects
 
-- **Streak Tracker:** habit tracker built with React and TypeScript, a web version of Habit Tracker: Pro · [Code](https://github.com/ktforge/streak-tracker)
 - **Credit Card Checker:** finds invalid card numbers and their issuers using the Luhn algorithm · [Code](https://github.com/ktforge/credit-card-checker)
 - **Mysterious Organism:** simulates DNA for a fictional deep-sea organism · [Code](https://github.com/ktforge/mystery-organism-starter)
 - **Message Generator:** command line program that prints a random Daily Dev Fortune · [Code](https://github.com/ktforge/my_message_generator)

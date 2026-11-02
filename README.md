@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **Codecademy Store:** React and Redux store with a cart, quantity picker, USD/EUR/CAD currency switch, and product search · [Live site](https://codecademy-store-devante.netlify.app) · [Code](https://github.com/ktforge/codecademy-store)
 - **Appointment Planner:** React app for saving contacts and booking appointments with them, with a duplicate name check and contact picker · [Live site](https://appointment-planner-devante.netlify.app) · [Code](https://github.com/ktforge/appointment-planner)
 - **Adopt a Pet:** React Router pet adoption site with species filters, pet detail pages, name search, and a 404 redirect · [Live site](https://adopt-a-pet-devante.netlify.app) · [Code](https://github.com/ktforge/adopt-a-pet)
 - **Jammming:** React music search app with Deezer results, 30 second track previews, and a custom playlist builder · [Live site](https://ktforge.github.io/Jammming/) · [Code](https://github.com/ktforge/Jammming)

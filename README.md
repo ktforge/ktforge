@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **Expense Tracker:** set budgets by category, log transactions, and see what's left to spend · [Live site](https://expense-tracker-devante.netlify.app/) · [Code](https://github.com/ktforge/expense-tracker)
 - **Streak Tracker:** habit tracker built with React and TypeScript, a web version of Habit Tracker: Pro · [Live site](https://streak-tracker-devante.netlify.app) · [Code](https://github.com/ktforge/streak-tracker)
 - **Codecademy Store:** React and Redux store with a cart, quantity picker, USD/EUR/CAD currency switch, and product search · [Live site](https://codecademy-store-devante.netlify.app) · [Code](https://github.com/ktforge/codecademy-store)
 - **Appointment Planner:** React app for saving contacts and booking appointments with them, with a duplicate name check and contact picker · [Live site](https://appointment-planner-devante.netlify.app) · [Code](https://github.com/ktforge/appointment-planner)

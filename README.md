@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **Flashcards:** React and Redux quiz app for making topics, building quizzes of front/back cards, and flipping cards to study · [Live site](https://flashcards-devante.netlify.app/) · [Code](https://github.com/ktforge/flashcards)
 - **Redux News Reader:** news reader with article previews and per-article comments, loaded and posted through Redux Toolkit async thunks · [Live site](https://redux-news-reader-devante.netlify.app/) · [Code](https://github.com/ktforge/redux-news-reader)
 - **Expense Tracker:** set budgets by category, log transactions, and see what's left to spend · [Live site](https://expense-tracker-devante.netlify.app/) · [Code](https://github.com/ktforge/expense-tracker)
 - **Streak Tracker:** habit tracker built with React and TypeScript, a web version of Habit Tracker: Pro · [Live site](https://streak-tracker-devante.netlify.app) · [Code](https://github.com/ktforge/streak-tracker)

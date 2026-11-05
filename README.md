@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **Redux News Reader:** news reader with article previews and per-article comments, loaded and posted through Redux Toolkit async thunks · [Live site](https://redux-news-reader-devante.netlify.app/) · [Code](https://github.com/ktforge/redux-news-reader)
 - **Expense Tracker:** set budgets by category, log transactions, and see what's left to spend · [Live site](https://expense-tracker-devante.netlify.app/) · [Code](https://github.com/ktforge/expense-tracker)
 - **Streak Tracker:** habit tracker built with React and TypeScript, a web version of Habit Tracker: Pro · [Live site](https://streak-tracker-devante.netlify.app) · [Code](https://github.com/ktforge/streak-tracker)
 - **Codecademy Store:** React and Redux store with a cart, quantity picker, USD/EUR/CAD currency switch, and product search · [Live site](https://codecademy-store-devante.netlify.app) · [Code](https://github.com/ktforge/codecademy-store)

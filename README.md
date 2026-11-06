@@ -8,7 +8,7 @@ Two iOS apps live on the App Store, a web app in production, and a commercial Af
 
 ## Projects
 
-Built while working through Codecademy's Full-Stack Engineer path. Every web project has a live site.
+Built while working through Codecademy's Full-Stack Engineer path. Every web project below has a live site.
 
 ### Live Website Projects
 

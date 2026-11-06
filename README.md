@@ -32,7 +32,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 - **Tea Cozy:** landing page for a fictional tea shop, built from a design mockup with Flexbox · [Live site](https://ktforge.github.io/Tea-Cozy/) · [Code](https://github.com/ktforge/Tea-Cozy)
 - **Company Home Page with Flexbox:** company homepage layout built with HTML and CSS Flexbox · [Live site](https://ktforge.github.io/company-homepage-flexbox/) · [Code](https://github.com/ktforge/company-homepage-flexbox)
 - **Number Guesser:** browser game against the computer: closest guess to a secret number wins · [Live site](https://ktforge.github.io/Number-Guesser/) · [Code](https://github.com/ktforge/Number-Guesser)
-- **Website Style Guide:** style guide page that sets a site's colors, fonts, and components before building it · [Live site](https://ktforge.github.io/website-style-guide-codecademey-full-stack/) · [Code](https://github.com/ktforge/website-style-guide-codecademey-full-stack)
+- **Website Style Guide:** style guide page that sets a site's colors, fonts, and components before building it · [Live site](https://ktforge.github.io/website-style-guide-codecademy-full-stack/) · [Code](https://github.com/ktforge/website-style-guide-codecademy-full-stack)
 - **Fotomatic:** debugging project: tracking down the HTML and CSS bugs on a camera landing page · [Live site](https://ktforge.github.io/fotomatic_broken/) · [Code](https://github.com/ktforge/fotomatic_broken)
 - **Portfolio Website:** my portfolio site · [Live site](https://ktforge.github.io/portfolio-website/) · [Code](https://github.com/ktforge/portfolio-website)
 

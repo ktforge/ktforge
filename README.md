@@ -12,6 +12,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Live Website Projects
 
+- **RedditLite:** Reddit-style reader built on the Lemmy API with community filters, debounced search, nested Markdown comments, and caching to stay under rate limits · [Live site](https://redditlite-devante.netlify.app/) · [Code](https://github.com/ktforge/reddit-client)
 - **Flashcards:** React and Redux quiz app for making topics, building quizzes of front/back cards, and flipping cards to study · [Live site](https://flashcards-devante.netlify.app/) · [Code](https://github.com/ktforge/flashcards)
 - **Redux News Reader:** news reader with article previews and per-article comments, loaded and posted through Redux Toolkit async thunks · [Live site](https://redux-news-reader-devante.netlify.app/) · [Code](https://github.com/ktforge/redux-news-reader)
 - **Expense Tracker:** set budgets by category, log transactions, and see what's left to spend · [Live site](https://expense-tracker-devante.netlify.app/) · [Code](https://github.com/ktforge/expense-tracker)

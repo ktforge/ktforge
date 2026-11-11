@@ -10,7 +10,7 @@ Two iOS apps live on the App Store, a web app in production, and a commercial Af
 
 Built while working through Codecademy's Full-Stack Engineer path. Every web project below has a live site.
 
-### Live Website Projects
+### Front-End Projects
 
 - **RedditLite:** Reddit-style reader built on the Lemmy API with community filters, debounced search, nested Markdown comments, and caching to stay under rate limits · [Live site](https://redditlite-devante.netlify.app/) · [Code](https://github.com/ktforge/reddit-client)
 - **Flashcards:** React and Redux quiz app for making topics, building quizzes of front/back cards, and flipping cards to study · [Live site](https://flashcards-devante.netlify.app/) · [Code](https://github.com/ktforge/flashcards)
@@ -35,6 +35,10 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 - **Website Style Guide:** style guide page that sets a site's colors, fonts, and components before building it · [Live site](https://ktforge.github.io/website-style-guide-codecademy-full-stack/) · [Code](https://github.com/ktforge/website-style-guide-codecademy-full-stack)
 - **Fotomatic:** debugging project: tracking down the HTML and CSS bugs on a camera landing page · [Live site](https://ktforge.github.io/fotomatic_broken/) · [Code](https://github.com/ktforge/fotomatic_broken)
 - **Portfolio Website:** my portfolio site · [Live site](https://ktforge.github.io/portfolio-website/) · [Code](https://github.com/ktforge/portfolio-website)
+
+### Back-End Projects
+
+- **Message Mixer:** Node command line program that scrambles messages with three ciphers, built around a reusable encryption module · [Code](https://github.com/ktforge/message-mixer)
 
 ### Other projects
 

@@ -2,7 +2,7 @@
 
 Self-taught software developer in Vandalia, Ohio. I design, build, release, and support my own products through my studio, **[KT Forge](https://ktforge.dev)**.
 
-Two iOS apps live on the App Store, a web app in production, and a commercial After Effects extension sold to motion designers. I hold Mimo certificates in Full-Stack, Front-End, and Back-End Development, and I'm looking for a junior software engineering role.
+Two iOS apps live on the App Store, a web app in production, and a commercial After Effects extension sold to motion designers. I hold Mimo certificates in Full-Stack, Front-End, and Back-End Development.
 
 ---
 

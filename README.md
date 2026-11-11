@@ -115,7 +115,7 @@ Full product lifecycle: UI/UX design, development, TestFlight beta testing, App 
 
 **Mimo:** completed Full-Stack, Front-End, and Back-End Development certificates (August 2026). Covered semantic and accessible HTML, CSS (Flexbox, Grid, responsive layout), JavaScript and ES6, DOM and events, async programming, React, SQL, and Node/Express.
 
-**Codecademy:** Full-Stack Engineer path, in progress and almost done with the front-end half (HTML, CSS, JavaScript, React, React Router, and hooks). Passed the Web Development Foundations and Building Interactive Websites exams. Most of the live sites above come from this path.
+**Codecademy:** Full-Stack Engineer path. Front-end section complete (HTML, CSS, JavaScript, React, React Router, Redux, and hooks), back-end in progress, starting with Node.js. Passed the Web Development Foundations, Building Interactive Websites, and Front-End Development exams. Most of the live sites above come from this path.
 
 **The Odin Project:** full-stack JavaScript path, in parallel.
 

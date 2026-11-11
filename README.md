@@ -38,6 +38,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Back-End Projects
 
+- **Find Your Hat:** terminal maze game with random fields, WASD controls, and a breadth-first search check that every field can be won · [Code](https://github.com/ktforge/find-your-hat)
 - **Message Mixer:** Node command line program that scrambles messages with three ciphers, built around a reusable encryption module · [Code](https://github.com/ktforge/message-mixer)
 
 ### Other projects

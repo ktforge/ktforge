@@ -38,10 +38,10 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Back-End Projects
 
-- **Find Your Hat:** terminal maze game with random fields, WASD controls, and a breadth-first search check that every field can be won · [Code](https://github.com/ktforge/find-your-hat)
-- **Message Mixer:** Node command line program that scrambles messages with three ciphers, built around a reusable encryption module · [Code](https://github.com/ktforge/message-mixer)
-- **Quote API:** Express REST API that serves tech quotes to a front-end page, with routes to get a random quote, filter by author, and add, update, or delete quotes · [Code](https://github.com/ktforge/quote-api)
 - **Boss Machine:** Express REST API for a villain-themed management dashboard, with CRUD routes for minions, ideas, and meetings, nested work routes with mergeParams, custom middleware, and all 61 tests passing · [Code](https://github.com/ktforge/boss-machine)
+- **Quote API:** Express REST API that serves tech quotes to a front-end page, with routes to get a random quote, filter by author, and add, update, or delete quotes · [Code](https://github.com/ktforge/quote-api)
+- **Message Mixer:** Node command line program that scrambles messages with three ciphers, built around a reusable encryption module · [Code](https://github.com/ktforge/message-mixer)
+- **Find Your Hat:** terminal maze game with random fields, WASD controls, and a breadth-first search check that every field can be won · [Code](https://github.com/ktforge/find-your-hat)
 
 ### Other projects
 

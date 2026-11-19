@@ -38,6 +38,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Back-End Projects
 
+- **Quote Keeper:** Express app built with test-driven development, where you submit a quote and it renders back through a Handlebars view, tested with Mocha, Chai, SuperTest, and jsdom · [Code](https://github.com/ktforge/quote-keeper)
 - **GitHub OAuth Login:** Express app with "Sign in with GitHub" through Passport and OAuth 2.0, sessions, and a protected account page that shows your GitHub profile · [Code](https://github.com/ktforge/github-oauth)
 - **Dognation:** Express site for dog walkers to share photos of the dogs they walk, with Passport.js local login, bcrypt password hashing, sessions, protected routes, and pages to view, edit, and add dogs · [Code](https://github.com/ktforge/dognation)
 - **Boss Machine:** Express REST API for a villain-themed management dashboard, with CRUD routes for minions, ideas, and meetings, nested work routes with mergeParams, custom middleware, and all 61 tests passing · [Code](https://github.com/ktforge/boss-machine)

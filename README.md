@@ -38,6 +38,7 @@ Built while working through Codecademy's Full-Stack Engineer path. Every web pro
 
 ### Back-End Projects
 
+- **Movie Database:** PostgreSQL database of my favorite movies, built step by step with tables, inserts, filtered queries, new columns, backfilled data, and a UNIQUE constraint · [Code](https://github.com/ktforge/movie-database)
 - **Conference Schedule:** SQLite script that tracks talks for a tech conference, creating the sessions table and then adding, renaming, assigning rooms to, and canceling talks · [Code](https://github.com/ktforge/conference-schedule)
 - **Quote Keeper:** Express app built with test-driven development, where you submit a quote and it renders back through a Handlebars view, tested with Mocha, Chai, SuperTest, and jsdom · [Code](https://github.com/ktforge/quote-keeper)
 - **GitHub OAuth Login:** Express app with "Sign in with GitHub" through Passport and OAuth 2.0, sessions, and a protected account page that shows your GitHub profile · [Code](https://github.com/ktforge/github-oauth)
